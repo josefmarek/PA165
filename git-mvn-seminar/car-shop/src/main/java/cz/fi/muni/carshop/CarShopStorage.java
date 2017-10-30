@@ -1,3 +1,4 @@
+
 package cz.fi.muni.carshop;
 
 import java.util.HashMap;
