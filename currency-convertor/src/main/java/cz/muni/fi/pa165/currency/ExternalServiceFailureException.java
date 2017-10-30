@@ -22,7 +22,7 @@ public class ExternalServiceFailureException extends Exception {
      * with the specified detail message and cause.
      *
      * @param message the detail message.
-     * @param cause cause
+     * @param cause   cause
      */
     public ExternalServiceFailureException(String message, Throwable cause) {
         super(message, cause);

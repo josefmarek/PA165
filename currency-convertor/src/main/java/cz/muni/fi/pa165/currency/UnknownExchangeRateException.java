@@ -23,7 +23,7 @@ public class UnknownExchangeRateException extends RuntimeException {
      * the specified detail message and cause.
      *
      * @param message the detail message.
-     * @param cause the cause
+     * @param cause   the cause
      */
     public UnknownExchangeRateException(String message, Throwable cause) {
         super(message, cause);
